@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "889946054792",
+    "firebase_url": "https://fiveonsix-1f631.firebaseio.com",
+    "project_id": "fiveonsix-1f631",
+    "storage_bucket": "fiveonsix-1f631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889946054792:android:6c9acfb5a99ecec3",
+        "android_client_info": {
+          "package_name": "com.yas.fiveofsix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889946054792-bvo8b7h2eupsc62cs4pl58mt6kb0t1tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yas.fiveofsix",
+            "certificate_hash": "35c5ac0ace235d4ecadd96912c6d7779ec07a9de"
+          }
+        },
+        {
+          "client_id": "889946054792-ie0m5k6fhcdb87nls0llljafg4c196nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWppVTlSavFnwtxMAZu-FoXNgMP8Nw650"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889946054792-ie0m5k6fhcdb87nls0llljafg4c196nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FiveOnSix - TacToe</string>
+    <string name="title_activity_pseudo">PseudoActivity</string>
+</resources>
